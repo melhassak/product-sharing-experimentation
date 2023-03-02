@@ -9,7 +9,7 @@
     <filterScope>Everything</filterScope>
     <filters>
         <field>PRODUCT2.NAME</field>
-        <operation>equals</operation>
+        <operation>startsWith</operation>
         <value>The Product</value>
     </filters>
     <label>All Products</label>
